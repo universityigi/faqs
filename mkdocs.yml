@@ -1,6 +1,6 @@
 copyright: 'Copyright &copy; 2022 FreeForAll'
 site_name: FAQS for i3s
-
+docs_dir: docs
 theme:
   name: material
 
