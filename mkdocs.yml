@@ -1,4 +1,5 @@
 copyright: 'Copyright &copy; 2022 FreeForAll'
+site_name: faqs
 
 theme:
   name: material
