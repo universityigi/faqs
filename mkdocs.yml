@@ -1,0 +1,31 @@
+site_name: dammit
+site_url: http://universityigi.github.io/faqs
+repo_name: dammit
+repo_url: https://github.com/universityigi/faqs
+edit_uri: ""
+
+copyright: 'Copyright &copy; 2022 FreeForAll'
+
+# change directory names here
+docs_dir: doc
+site_dir: site
+
+theme:
+  name: material
+
+  # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+  palette:
+    primary: 'green'
+    accent: 'purple'
+  
+  # fun logos! see https://material.io/icons/
+  icon:
+    logo: material/dns
+
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# give a title for each page
+nav:
+  - 'Home': 'index.md'
