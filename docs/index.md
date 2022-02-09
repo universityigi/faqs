@@ -1,5 +1,2 @@
-# faqs
-
-Project documentation with&nbsp;Markdown.
-
----
+Questa pagina è stata creata per aiutare gli studenti di Ingegneria Informatica nelle risposte alle domande più frequenti, divise in categorie per favorire una lettura veloce.
+Per qualsiasi aggiunta, scrivete contattateci su :fontawesome-brands-telegram: https://t.me/+X5vLAT7wUpw1MmJi
