@@ -2,4 +2,8 @@ site_name: FAQS for i3s
 theme:
   name: material
   palette:
-    primary: yellow
+    primary: green
+    accent: lime
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
