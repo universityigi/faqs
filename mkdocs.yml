@@ -15,6 +15,9 @@ nav:
     - Laurea: 'laurea.md'
     - Esami: 'esami.md'
 markdown_extensions:
+  - toc:
+      permalink: true
+      title: Contenuti
   - admonition
   - pymdownx.details
   - pymdownx.superfences
