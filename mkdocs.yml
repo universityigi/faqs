@@ -1,4 +1,4 @@
-site_name: FAQS per Ingegneria Informatica
+site_name: FAQS IngInf
 theme:
   name: material
   palette:
@@ -11,10 +11,9 @@ theme:
     - navigation.instant
 nav:
     - Home: 'index.md'
-    - Contenuti:
-      - Orari: 'orari.md'
-      - Laurea: 'laurea.md'
-      - Esami: 'esami.md'
+    - Orari: 'orari.md'
+    - Laurea: 'laurea.md'
+    - Esami: 'esami.md'
 markdown_extensions:
   - toc:
       permalink: true
