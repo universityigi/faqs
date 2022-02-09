@@ -1,3 +1,5 @@
 site_name: FAQS for i3s
 theme:
   name: material
+  palette:
+    primary: yellow
