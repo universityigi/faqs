@@ -43,7 +43,7 @@
 
 !!! question "Posso usare il tirocinio fatto esternamente?"
 
-		No, il tirocinio va richiesto utilizzando [jobsoul.it](jobsoul.it) o eventualmente richiedendo all'azienda in cui si sta facendo il tirocinio di iscriversi sul sito e inviare la richiesta di tirocinio tramite lo stesso
+		No, il tirocinio va richiesto utilizzando [JobSoul](https://www.jobsoul.it/) o eventualmente richiedendo all'azienda in cui si sta facendo il tirocinio di iscriversi sul sito e inviare la richiesta di tirocinio tramite lo stesso
 
 ### Coriandoli
 
