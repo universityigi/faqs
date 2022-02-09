@@ -13,3 +13,7 @@ nav:
     - Home: 'index.md'
     - Laurea: 'laurea.md'
     - Esami: 'esami.md'
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
