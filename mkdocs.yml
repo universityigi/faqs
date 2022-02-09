@@ -7,3 +7,9 @@ theme:
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to dark mode
+  features:
+    - navigation.instant
+nav:
+    - Home: 'index.md'
+    - Laurea: 'laurea.md'
+    - Esami: 'esami.md"
