@@ -1,9 +1,3 @@
-site_name: faqs
-site_url: http://universityigi.github.io/faqs
-repo_name: faqs
-repo_url: https://github.com/universityigi/faqs
-edit_uri: ""
-
 copyright: 'Copyright &copy; 2022 FreeForAll'
 
 theme:
