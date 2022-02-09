@@ -10,7 +10,7 @@
 !!! question "Dove trovo informazioni utili alla domanda laurea?"
 
 		Tutte le informazioni necessarie alla domanda e ottenimento della laurea
-		sono descritte nel [Promemoria Laureandi](https://www.uniroma1.it/sites/default/files/field_file_allegati/promemoria_i3s.pdf){.new-tab}
+		sono descritte nel [Promemoria Laureandi](https://www.uniroma1.it/sites/default/files/field_file_allegati/promemoria_i3s.pdf){target=_blank}
 
 ### Richieste alla segreteria 
 
@@ -43,7 +43,7 @@
 
 !!! question "Posso usare il tirocinio fatto esternamente?"
 
-		No, il tirocinio va richiesto utilizzando [JobSoul](https://www.jobsoul.it/){.new-tab} o eventualmente richiedendo all'azienda in cui si sta facendo il tirocinio di iscriversi sul sito e inviare la richiesta di tirocinio tramite lo stesso
+		No, il tirocinio va richiesto utilizzando [JobSoul](https://www.jobsoul.it/){target=_blank} o eventualmente richiedendo all'azienda in cui si sta facendo il tirocinio di iscriversi sul sito e inviare la richiesta di tirocinio tramite lo stesso
 
 ### Coriandoli
 

@@ -20,5 +20,4 @@
 !!! question "I professori sono tenuti a fare gli appelli straordinari?"
 
 		Assolutamente si, da statuto universitario,ma sono aperti soltanto alle categorie
-		nominate al punto 6 di [questa pagina](https://www.uniroma1.it/it/content/esami-di-profitto){.new-tab}
-
+		nominate al punto 6 di [questa pagina](https://www.uniroma1.it/it/content/esami-di-profitto){target=_blank}
