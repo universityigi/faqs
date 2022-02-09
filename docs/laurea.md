@@ -1,4 +1,9 @@
-## Laurea e informazioni utili
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 
 ### Domanda di Laurea
 
@@ -20,3 +25,10 @@
 !!! question "Devo consegnare la laurea, qual è la scadenza?"
 
 		La scadenza è 15 giorni prima del giorno della vostra laurea, come ripetuto dal prof. Mecella
+
+### Scrivere la tesi
+
+!!! question "Quando posso scrivere la tesi?"
+
+		In qualunque momento della propria carriera universitaria, ma è consigliato avere mandato mail al professore
+		e avere mandato richiesta per Relatore tramite INFOSTUD
