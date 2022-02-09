@@ -1,5 +1,3 @@
-# faqs
+## Orari di Lezioni / Sessioni / Scadenze
 
-Project documentation with&nbsp;Markdown.
-
----
+??? question "How to add plugins to the Docker image?"

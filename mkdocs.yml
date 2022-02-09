@@ -3,6 +3,7 @@ theme:
   name: material
   palette:
     primary: green
+    accent: green
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to dark mode
