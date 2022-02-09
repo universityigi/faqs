@@ -11,6 +11,7 @@ theme:
     - navigation.instant
 nav:
     - Home: 'index.md'
+    - Orari: 'orari.md'
     - Laurea: 'laurea.md'
     - Esami: 'esami.md'
 markdown_extensions:
