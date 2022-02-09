@@ -6,10 +6,6 @@ edit_uri: ""
 
 copyright: 'Copyright &copy; 2022 FreeForAll'
 
-# change directory names here
-docs_dir: doc
-site_dir: site
-
 theme:
   name: material
 
