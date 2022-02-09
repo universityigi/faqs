@@ -1,5 +1,0 @@
-site_name: FAQS for i3s
-theme:
-  name: material
-remote_branch: main
-site_dir: site
