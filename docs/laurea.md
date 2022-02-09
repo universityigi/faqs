@@ -32,3 +32,15 @@
 
 		In qualunque momento della propria carriera universitaria, ma è consigliato avere mandato mail al professore
 		e avere mandato richiesta per Relatore tramite INFOSTUD
+
+### Tesi Laboratorio
+
+!!! question "Posso utilizzare il laboratorio X come tesi?"
+
+		Certamente, basta che venga approvato dal professore con il quale si intende farla
+
+### Tesi Tirocinio
+
+!!! question "Posso usare il tirocinio fatto esternamente?"
+
+		No, il tirocinio va richiesto utilizzando [jobsoul.it](jobsoul.it) o eventualmente richiedendo all'azienda in cui si sta facendo il tirocinio di iscriversi sul sito e inviare la richiesta di tirocinio tramite lo stesso
