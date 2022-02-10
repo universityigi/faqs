@@ -21,3 +21,11 @@
 
 		Assolutamente si, da statuto universitario,ma sono aperti soltanto alle categorie
 		nominate al punto 6 di [questa pagina](https://www.uniroma1.it/it/content/esami-di-profitto){target=_blank}
+
+
+### Dimostrazioni di Ricerca Operativa
+
+!!! question "Il professor Roma mette le dimostrazioni dei teoremmi all'esame?"
+
+		No, non lo fa da parecchio tempo, quello che può capitare è che metta le DEFINIZIONI ad esempio, di politopo, di problema inammissibile, etc
+		Trovate tutto il materiale necessario nel [repository](https://github.com/universityigi/RicercaOperativa)
