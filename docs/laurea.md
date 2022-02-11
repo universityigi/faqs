@@ -20,6 +20,12 @@
 
 !!! warning "Non serve affrettarsi o tempestare di mail la segreteria una volta che la domanda di laurea è stata fatta"
 
+### Quali documenti caricare nella domanda di laurea
+
+!!! question "Posso caricare la carta di identità elettronica sia come documento di riconoscimento che come tessera sanitaria/codice fiscale?"
+
+		È preferibile caricare due documenti separati, anche se il codice fiscale è presente dietro la carta di identità elettronica
+
 ### Scadenza della domanda di laurea
 
 !!! question "Devo consegnare la laurea, qual è la scadenza?"
