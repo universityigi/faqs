@@ -15,6 +15,10 @@
 
 !!! warning "Richiedere alla segreteria o ai professori informazioni in questo senso, potrebbe portare all'annullamento del test"
 
+!!! question "Quanto è valido il test VCA?"
+
+		Solitamente viene utilizzato il test VCA fatto durante l'anno solare, ma test fatti molto prima sono stati accettati in passato
+
 ### Appelli Straordinari
 
 !!! question "I professori sono tenuti a fare gli appelli straordinari?"
