@@ -12,6 +12,11 @@
 		Tutte le informazioni necessarie alla domanda e ottenimento della laurea
 		sono descritte nel [Promemoria Laureandi](https://www.uniroma1.it/sites/default/files/field_file_allegati/promemoria_i3s.pdf){target=_blank}
 
+!!! question "L'esame VCA è giorno X, la domanda di laurea scade pochi giorni prima della data del VCA, mi posso laureare?
+
+		Si, assolutamente, l'importante è che tu abbia finito gli esami e caricato tutti i documenti richiesti nella domanda di laurea
+		e descritti nel Promemoria Laureandi qua sopra
+
 ### Richieste alla segreteria 
 
 !!! question "Devo chiedere qualcosa alla segreteria durante il processo?"
