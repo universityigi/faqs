@@ -31,5 +31,5 @@
 
 !!! question "Il professor Roma mette le dimostrazioni dei teoremmi all'esame?"
 
-		No, non lo fa da parecchio tempo, quello che può capitare è che metta le DEFINIZIONI ad esempio, di politopo, di problema inammissibile, etc
-		Trovate tutto il materiale necessario nel [repository](https://github.com/universityigi/RicercaOperativa)
+		Si, le mette in ogni esame ordinario ed è possibile trovare tutto il materiale necessario
+                nel [repository](https://github.com/universityigi/RicercaOperativa)
