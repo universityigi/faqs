@@ -31,6 +31,14 @@
 
 		È preferibile caricare due documenti separati, anche se il codice fiscale è presente dietro la carta di identità elettronica
 
+### Calcolare la media
+
+!!! question "Devo calcolare la media per la laurea?"
+
+		Non è necessario. Qualche tempo dopo avere fatto la domanda di laurea si riceverà una mail "Accettazione media partenza" dalla segreteria didattica,
+		che indica la matricola, il nome, il cognome, il relatore, la media su 30, il voto a cui accedi per la media degli esami e la media finale (arrotondata).
+		Il calcolo è comunque sulla Media Pesata con 30 e lode che vale 30.
+
 ### Scadenza della domanda di laurea
 
 !!! question "Devo consegnare la laurea, qual è la scadenza?"
@@ -61,3 +69,10 @@
 !!! question "Posso lanciare i coriandoli alla laurea?"
 
 		NO ai coriandoli
+
+### Pergamena di Laurea
+
+!!! question "Come richiedo la pergamena di laurea?"
+
+		Per potere ricevere la pergamena, bisogna avere ricevuto la mail da servizi.onLine@studenti.uniroma1.it che attesta la possibilità del ritiro.
+		Il sito per prenotare, una volta ricevuta la mail è a [questo indirizzo](https://www.supersaas.it/schedule/infosapienza/Pergamene_I3S)
