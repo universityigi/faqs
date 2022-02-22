@@ -19,6 +19,14 @@
 
 		Solitamente viene utilizzato il test VCA fatto durante l'anno solare, ma test fatti molto prima sono stati accettati in passato
 
+### Canali
+
+!!! question "Vengo dal canale X e voglio fare l'esame dal canale Y, posso?"
+
+		Alcuni professori permettono di fare l'esame anche se non appartenete al loro canale, spesso però questo dipende dall'anno in cui avete iniziato.
+	 	Ad esempio, se al secondo anno avevate Delli Priscoli come professore di Controlli Automatici, potete fare l'esame con lui negli anni successivi, ve lo consente.
+		In generale, per non avere dubbi, basta chiedere al professore di destinazione via mail se è possibile fare l'esame con lui
+
 ### Appelli Straordinari
 
 !!! question "I professori sono tenuti a fare gli appelli straordinari?"
