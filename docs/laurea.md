@@ -5,6 +5,13 @@
   }
 </style>
 
+### Proclamazione / Discussione
+
+!!! question "Qual è il giorno della proclamazione / discussione della mia laurea?"
+
+		Solitamente il giorno viene annunciato pochi giorni (una decina) prima della data esatta e sempre nel range della sessione di laurea.
+		Lo trovate nella sezione "Allegati" a [questa pagina](https://corsidilaurea.uniroma1.it/it/corso/2021/29931/laurearsi)
+
 ### Domanda di Laurea
 
 !!! question "Dove trovo informazioni utili alla domanda laurea?"
