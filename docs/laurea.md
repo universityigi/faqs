@@ -17,6 +17,10 @@
 		Si, assolutamente, l'importante è che tu abbia finito gli esami e caricato tutti i documenti richiesti nella domanda di laurea
 		e descritti nel Promemoria Laureandi qua sopra
 
+!!! question "Il professore non risponde alle mia mail per la domanda di laurea, cosa posso fare?"
+
+		Se avete fatto la domanda tramite infostud, nulla, è la segreteria che contatterà il professore affinchè accetti o rifiuti la domanda da infostud stesso.
+
 ### Richieste alla segreteria 
 
 !!! question "Devo chiedere qualcosa alla segreteria durante il processo?"
