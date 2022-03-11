@@ -14,6 +14,7 @@ nav:
     - Orari: 'orari.md'
     - Laurea: 'laurea.md'
     - Esami: 'esami.md'
+    - Varie: 'varie.md'
 markdown_extensions:
   - toc:
       permalink: true
