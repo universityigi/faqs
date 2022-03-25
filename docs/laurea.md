@@ -48,7 +48,7 @@
 
 		Non è necessario. Qualche tempo dopo avere fatto la domanda di laurea si riceverà una mail "Accettazione media partenza" dalla segreteria didattica,
 		che indica la matricola, il nome, il cognome, il relatore, la media su 30, il voto a cui accedi per la media degli esami e la media finale (arrotondata).
-		Il calcolo è comunque sulla Media Pesata con 30 e lode che vale 30.
+		Il calcolo è comunque sulla Media Pesata, normalizzata su 110, con 30 e lode che vale 30.
 
 ### Scadenza della domanda di laurea
 
