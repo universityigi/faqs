@@ -75,6 +75,10 @@
 
 		No, il tirocinio va richiesto utilizzando [JobSoul](https://www.jobsoul.it/){target=_blank} o eventualmente richiedendo all'azienda in cui si sta facendo il tirocinio di iscriversi sul sito e inviare la richiesta di tirocinio tramite lo stesso
 
+!!! question "Cosa devo produrre alla fine del tirocinio?"
+
+		Va scritta una relazione sull'attività svolta durante il tirocinio (esterno o interno), la cui valutazione è di competenza del professore (docente valutatore) che viene assegnato dalla segreteria didattica al tirocinio stesso
+
 ### Coriandoli
 
 !!! question "Posso lanciare i coriandoli alla laurea?"
