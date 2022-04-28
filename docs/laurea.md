@@ -17,7 +17,7 @@
 !!! question "Dove trovo informazioni utili alla domanda laurea?"
 
 		Tutte le informazioni necessarie alla domanda e ottenimento della laurea
-		sono descritte nel [Promemoria Laureandi](https://www.uniroma1.it/sites/default/files/field_file_allegati/promemoria_i3s.pdf){target=_blank}
+		sono descritte nel [Promemoria Laureandi](https://www.uniroma1.it/sites/default/files/allegati/Laureandi-I3S.pdf){target=_blank}
 
 !!! question "L'esame VCA è giorno X, la domanda di laurea scade pochi giorni prima della data del VCA, mi posso laureare?""
 
