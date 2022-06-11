@@ -15,6 +15,7 @@ nav:
     - Laurea: 'laurea.md'
     - Esami: 'esami.md'
     - Varie: 'varie.md'
+    - Domande degli studenti: 'studenti.md'
 markdown_extensions:
   - toc:
       permalink: true
