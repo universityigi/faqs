@@ -7,11 +7,9 @@
 
 ### Domande degli studenti 
 
-Ad un certo punto del 2022 é stata fatta questa domanda sul gruppo: 
+Ad un certo punto del 2022 é stata fatta una domanda sul gruppo. Le risposte sono state svariate, e rappresentano tutte opinioni personali degli studenti, vengono postate qua perché aiutino le future matricole ad orientarsi. Tuttavia é molto importante ricordare che queste sono opinioni, e per di piú di persone che comunque in un modo o nell'altro stanno versando sudore sul corso, perció é anche naturale che alcune opinioni siano particolarmente incattivite o comunque senza quel velo di idealitá che qualsiasi studente ha prima di iniziare un corso di laurea.
 
-!!! 	question "Buonasera a tutti, l’anno prossimo vorrei intraprendere Ingegneria Informatica. Mi piacerebbe sapere il vostro parere sullo studiare ingegneria informatica alla Sapienza. Tornando indietro ri-scegliereste di studiarla qui? Le competenze informatiche e generali sono buone? O consigliereste altre università?"
-
-Le risposte sono state svariate, e rappresentano tutte opinioni personali degli studenti, vengono postate qua perché aiutino le future matricole ad orientarsi. Tuttavia é molto importante ricordare che queste sono opinioni, e per di piú di persone che comunque in un modo o nell'altro stanno versando sudore sul corso, perció é anche naturale che alcune opinioni siano particolarmente incattivite o comunque senza quel velo di idealitá che qualsiasi studente ha prima di iniziare un corso di laurea.
+!!! question "Buonasera a tutti, l’anno prossimo vorrei intraprendere Ingegneria Informatica. Mi piacerebbe sapere il vostro parere sullo studiare ingegneria informatica alla Sapienza. Tornando indietro ri-scegliereste di studiarla qui? Le competenze informatiche e generali sono buone? O consigliereste altre università?"
 
 	Per quanto posso dire la mia (laureato in ingegneria informatica e prossimo a concludere la magistrale), la laurea in ingegneria informatica ti da la base per poter spaziare su più fronti ed esser in grado di affrontare problemi su livelli diversi rispetto ad un informatico (nulla da togliere agli informatici perché anche loro si fanno un bel mazzo). Personalmente, oltre al percorso di ingegneria, consiglio (se sei propenso al fattore programmazione) di integrare il tutto con progetti personali che toccano un po' tutte le tematiche del campo (sicurezza, sviluppo software, machine learning e così via).
 ---
