@@ -28,6 +28,10 @@
 
 		Se avete fatto la domanda tramite infostud, nulla, è la segreteria che contatterà il professore affinchè accetti o rifiuti la domanda da infostud stesso.
 
+!!! question "Devo consegnare la tesi di laurea, qual è la scadenza?"
+
+                La scadenza è 15 giorni prima del giorno della vostra laurea, come ripetuto dal prof. Mecella
+
 ### Richieste alla segreteria 
 
 !!! question "Devo chiedere qualcosa alla segreteria durante il processo?"
@@ -42,7 +46,7 @@
 
 		È preferibile caricare due documenti separati, anche se il codice fiscale è presente dietro la carta di identità elettronica
 
-### Calcolare la media
+### Calcolare la media e punti
 
 !!! question "Devo calcolare la media per la laurea?"
 
@@ -50,11 +54,9 @@
 		che indica la matricola, il nome, il cognome, il relatore, la media su 30, il voto a cui accedi per la media degli esami e la media finale (arrotondata).
 		Il calcolo è comunque sulla Media Pesata, normalizzata su 110, con 30 e lode che vale 30.
 
-### Scadenza della domanda di laurea
+!!! question "Quanti punti bonus ottengo per la tesi?"
 
-!!! question "Devo consegnare la tesi di laurea, qual è la scadenza?"
-
-		La scadenza è 15 giorni prima del giorno della vostra laurea, come ripetuto dal prof. Mecella
+		Solitamente una tesi decentemente scritta ha assegnato il massimo numero di punti bonus (10) alla triennale.
 
 ### Scrivere la tesi
 
