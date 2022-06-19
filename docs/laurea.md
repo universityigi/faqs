@@ -56,7 +56,8 @@
 
 !!! question "Quanti punti bonus ottengo per la tesi?"
 
-		Solitamente una tesi decentemente scritta ha assegnato il massimo numero di punti bonus (10) alla triennale.
+		Solitamente una tesi decentemente scritta ha assegnato il massimo numero di punti bonus (10) alla triennale (Ingegneria Informatica).
+		Per Ingegneria Automatica la valutazione si basa sul progetto finale + orale.
 
 ### Scrivere la tesi
 
