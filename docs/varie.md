@@ -5,11 +5,16 @@
   }
 </style>
 
-### Email segreteria didattica Ingegneria Informatica e Automatica
+### Email segreteria didattica e altre figure di riferimento Ingegneria Informatica e Automatica
 
 !!! question "Qual è l'email della segreteria didattica?"
 
 		segreteriadidattica@diag.uniroma1.it
+		
+!!! question "Quali sono le email di Massimo Mecella (Presidente del CAD)?"
+		
+		mecella@diag.uniroma1.it
+		massimo.mecella@uniroma1.it
 
 ### Fuoricorso
 
