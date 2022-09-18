@@ -30,7 +30,7 @@
 
 !!! question "Devo consegnare la tesi di laurea, qual è la scadenza?"
 
-                La scadenza è 15 giorni prima del giorno della vostra laurea, come ripetuto dal prof. Mecella
+		La scadenza è 15 giorni prima del giorno della vostra laurea, come ripetuto dal prof. Mecella
 
 ### Richieste alla segreteria 
 
