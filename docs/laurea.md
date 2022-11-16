@@ -28,9 +28,13 @@
 
 		Se avete fatto la domanda tramite infostud, nulla, è la segreteria che contatterà il professore affinchè accetti o rifiuti la domanda da infostud stesso.
 
-!!! question "Devo consegnare la tesi di laurea, qual è la scadenza?"
+!!! question "Devo consegnare la tesi di laurea, qual è la scadenza per Ingegneria Informatica?"
 
-		La scadenza è 15 giorni prima del giorno della vostra laurea, come ripetuto dal prof. Mecella
+		La scadenza è 15 giorni prima del giorno della vostra proclamazione, come ripetuto dal prof. Mecella
+
+!!! question "Devo consegnare la tesi di laurea, qual è la scadenza per Ingegneria Automatica?"
+
+                La scadenza è 7 giorni prima del giorno della vostra proclamazione
 
 ### Richieste alla segreteria 
 
