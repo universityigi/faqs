@@ -34,7 +34,7 @@
 
 !!! question "Devo consegnare la tesi di laurea, qual è la scadenza per Ingegneria Automatica?"
 
-                La scadenza è 7 giorni prima del giorno della vostra proclamazione
+		La scadenza è 7 giorni prima del giorno della vostra proclamazione
 
 ### Richieste alla segreteria 
 
