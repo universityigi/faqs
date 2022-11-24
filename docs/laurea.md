@@ -82,8 +82,7 @@
 
 !!! question "A quale mail mando la mia tesi in pdf? (Curriculum Informatica)"
 
-		La mail va mandata a prova-finale-inginf@diag.uniroma1.it.
-		L'oggetto della mail dovrà contenere esclusivamente nome, cognome e matricola dello studente laureando. Il file allegato dovrà avere un nome formattato secondo lo schema "relazione_<cognome>_<nome>_<matricola>.pdf"
+		La mail va mandata a prova-finale-inginf@diag.uniroma1.it. L'oggetto della mail dovrà contenere esclusivamente nome, cognome e matricola dello studente laureando. Il file allegato dovrà avere un nome formattato secondo lo schema "relazione_\<cognome\>\_\<nome\>_\<matricola\>.pdf"
 
 ### Tesi Tirocinio
 
@@ -97,8 +96,7 @@
 
 !!! question "A quale mail mando la mia tesi in pdf? (Curriculum Informatica)"
 
-                La mail va mandata a stage-inginf@diag.uniroma1.it.
-                L'oggetto della mail dovrà contenere esclusivamente nome, cognome e matricola dello studente laureando. Il file allegato dovrà avere un nome formattato secondo lo schema "relazione_<cognome>_<nome>_<matricola>.pdf".
+                La mail va mandata a stage-inginf@diag.uniroma1.it. L'oggetto della mail dovrà contenere esclusivamente nome, cognome e matricola dello studente laureando. Il file allegato dovrà avere un nome formattato secondo lo schema relazione_\<cognome\>\_\<nome\>_\<matricola\>.pdf.
 
 ### Coriandoli
 
