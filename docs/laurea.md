@@ -36,6 +36,10 @@
 
 		La scadenza è 7 giorni prima del giorno della vostra discussione
 
+!!! question "Devo caricare la tesi su Infostud o inviarla via mail?"
+
+		Basta inviarla via mail, secondo le sezioni "Tesi Laboratorio" o "Tesi Tirocinio" di questa pagina.
+
 ### Richieste alla segreteria 
 
 !!! question "Devo chiedere qualcosa alla segreteria durante il processo?"
@@ -76,6 +80,11 @@
 
 		Certamente, basta che venga approvato dal professore con il quale si intende farla
 
+!!! question "A quale mail mando la mia tesi in pdf? (Curriculum Informatica)"
+
+		La mail va mandata a prova-finale-inginf@diag.uniroma1.it.
+		L'oggetto della mail dovrà contenere esclusivamente nome, cognome e matricola dello studente laureando. Il file allegato dovrà avere un nome formattato secondo lo schema "relazione_<cognome>_<nome>_<matricola>.pdf"
+
 ### Tesi Tirocinio
 
 !!! question "Posso usare il tirocinio fatto esternamente?"
@@ -85,6 +94,11 @@
 !!! question "Cosa devo produrre alla fine del tirocinio?"
 
 		Va scritta una relazione sull'attività svolta durante il tirocinio (esterno o interno), la cui valutazione è di competenza del professore (docente valutatore) che viene assegnato dalla segreteria didattica al tirocinio stesso
+
+!!! question "A quale mail mando la mia tesi in pdf? (Curriculum Informatica)"
+
+                La mail va mandata a stage-inginf@diag.uniroma1.it.
+                L'oggetto della mail dovrà contenere esclusivamente nome, cognome e matricola dello studente laureando. Il file allegato dovrà avere un nome formattato secondo lo schema "relazione_<cognome>_<nome>_<matricola>.pdf".
 
 ### Coriandoli
 
